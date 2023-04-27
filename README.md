@@ -1,11 +1,5 @@
-# apiwiz
 
-Assignment 1:
-MyClass.java contains assignment 1 which is solved with binary search.
 
-Assignment 2:
-
-apiwiz folder contains assignment 2.
 
 Controllers for registration and login--RegistrationLoginController
 <br>
